@@ -465,6 +465,7 @@ Blender-MeshClean/
 # 📷 Preview
 
 插件界面：
+![插件界面](01.png)
 
 
 

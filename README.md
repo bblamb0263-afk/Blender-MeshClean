@@ -1,6 +1,6 @@
 # Blender-MeshClean
 ![Blender](https://img.shields.io/badge/Blender-4.x-orange)
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Python](https://img.shields.io/badge/Python-5.x-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 > Blender 模型资产处理工具

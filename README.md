@@ -1,4 +1,7 @@
 # Blender-MeshClean
+![Blender](https://img.shields.io/badge/Blender-4.x-orange)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 > Blender 模型资产处理工具
 > 针对 Blender → 游戏引擎流程中的模型权重、面数、Transform 与导出等问题，将常用的重复操作整合为一套工具。
